@@ -1,12 +1,12 @@
-# certified-atws-developer-associate-notes
+# Certified Atws Associate Developer Notes
 
 ### My notes in preparation for the 2019 Atws developer associate exam 
 
 ## Table of contents
 
 - Atws Fundamentals
-    - [IAM: Identity Access & Management](iam.md)
-    - EC2: Virtual Machines
+    - [IAM: Identity Access & Management](atws-fundamentals/iam.md)
+    - [EC2: Virtual Machines](atws-fundamentals/ec2.md)
     - ELB: Elastic Load Balancers
     - ASG: Auto Scaling Group
     - EBS Volumes
