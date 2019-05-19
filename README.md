@@ -7,7 +7,8 @@
 - Atws Fundamentals
     - [IAM: Identity Access & Management](atws-fundamentals/iam.md)
     - [EC2: Virtual Machines](atws-fundamentals/ec2.md)
-    - ELB: Elastic Load Balancers
+    - [EC2: Virtual Machines](atws-fundamentals/elb.md)
+    - [ELB: Elastic Load Balancers]()
     - ASG: Auto Scaling Group
     - EBS Volumes
     - RDS: Relational Database Service
