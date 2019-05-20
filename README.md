@@ -9,7 +9,7 @@
     - [EC2: Virtual Machines](atws-fundamentals/ec2.md)
     - [ELB: Elastic Load Balancers](atws-fundamentals/elb.md)
     - [ASG: Auto Scaling Group](atws-fundamentals/asg.md)
-    - EBS Volumes
+    - [EBS Volumes](atws-fundamentals/ebs.md)
     - RDS: Relational Database Service
     - Route 53
     - ElastiCache
