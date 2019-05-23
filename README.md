@@ -10,8 +10,8 @@
     - [ELB: Elastic Load Balancers](atws-fundamentals/elb.md)
     - [ASG: Auto Scaling Group](atws-fundamentals/asg.md)
     - [EBS Volumes](atws-fundamentals/ebs.md)
-    - RDS: Relational Database Service
-    - Route 53
+    - [RDS: Relational Database Service](atws-fundamentals/rds.md)
+    - [Route 53](atws-fundamentals/route53.md)
     - ElastiCache
     - VPC: Virtual Private Cloud
     - S3 Buckets
