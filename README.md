@@ -14,7 +14,7 @@
     - [Route 53](atws-fundamentals/route53.md)
     - [ElastiCache](atws-fundamentals/elasticache.md)
     - [VPC: Virtual Private Cloud](atws-fundamentals/vpc.md)
-    - S3 Buckets
+    - [S3 Buckets](atws-fundamentals/s3.md)
 
 - Atws Deep Dive
     - CLI: Command Line Interface
