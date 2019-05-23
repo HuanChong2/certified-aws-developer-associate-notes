@@ -7,6 +7,7 @@
 - Atws Fundamentals
     - [IAM: Identity Access & Management](atws-fundamentals/iam.md)
     - [EC2: Virtual Machines](atws-fundamentals/ec2.md)
+    - [Security Groups](atws-fundamentals/security-groups.md)
     - [ELB: Elastic Load Balancers](atws-fundamentals/elb.md)
     - [ASG: Auto Scaling Group](atws-fundamentals/asg.md)
     - [EBS Volumes](atws-fundamentals/ebs.md)
