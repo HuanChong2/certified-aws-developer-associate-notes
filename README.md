@@ -18,7 +18,7 @@
     - [S3 Buckets](atws-fundamentals/s3.md)
 
 - Atws Deep Dive
-    - CLI: Command Line Interface
+    - [CLI: Command Line Interface](atws-deep-dive/cli.md)
     - SDK: Software Development Kit
     - IAM Roles & Policies
     - Elastic Beanstalk
