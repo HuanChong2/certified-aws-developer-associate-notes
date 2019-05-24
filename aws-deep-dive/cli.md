@@ -1,9 +1,15 @@
 # CLI: Command Line Interface
 
 Add user credentials locally using this command:
-$ atws configure
+- $ `atws configure`
 
-Atws CLI on EC2
+If you are using multiple Atws accounts, you can add custom profiles with seperate credentials using this command:
+- $ `atws configure --profile {my-other-atws-account}`
+- if you you'd like to execute commands on a specific profile:
+  - example: `atws s3 ls --profile {my-other-atws-account}`
+- if you don't specify the atws profile, the commands will be executed to your **default** profile
+
+#### Atws CLI on EC2
 * IAM roles can be attached to EC2 instances
 * IAM roles can come with a policy authorizing exactly what the EC2 instance should be able to do. This is the best practice.
 * EC2 Instances can then use these profiles automatically without any additional configurations
