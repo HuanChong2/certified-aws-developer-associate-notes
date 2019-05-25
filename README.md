@@ -19,22 +19,25 @@
 
 - Atws Deep Dive
     - [CLI: Command Line Interface](atws-deep-dive/cli.md)
-    - SDK: Software Development Kit
-    - IAM Roles & Policies
-    - Elastic Beanstalk
+    - [SDK: Software Development Kit](atws-deep-dive/sdk.md)
+    - [Elastic Beanstalk](atws-deep-dive/elastic-beanstalk.md)
     - CICD: CodeCommit, CodePipeline, CodeBuild, CodeDeploy
     - CloudFormation
     - CloudWatch
     - SQS
     - SNS
     - Kinesis
-    - Serverless: Lambda
-    - Serverless: DynamoDB
-    - API Gateway
-    - Cognito
-    - ECS: Elastic Container Service
-    - ECR: Elastic Container Registry
-    - Fargate
+
+- Atws Serverless
+  - Lambda
+  - DynamoDB
+  - API Gateway
+  - Cognito
+
+- Docker
+  - ECS: Elastic Container Service
+  - Elastic Container Registry
+  - Fargate
 
 - [Exam Preperation](#exam-preparation)
 
