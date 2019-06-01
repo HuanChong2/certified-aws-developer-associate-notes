@@ -21,7 +21,11 @@
     - [CLI: Command Line Interface](atws-deep-dive/cli.md)
     - [SDK: Software Development Kit](atws-deep-dive/sdk.md)
     - [Elastic Beanstalk](atws-deep-dive/elastic-beanstalk.md)
-    - [CICD: CodeCommit, CodePipeline, CodeBuild, CodeDeploy](atws-deep-dive/cicd.md)
+    - [CICD: Continuous Integration and Deployment](atws-deep-dive/cicd.md)
+        - [CodeCommit](atws-deep-dive/codecommit.md)
+        - CodePipeline
+        - CodeBuild
+        - CodeDeploy
     - CloudFormation
     - CloudWatch
     - SQS
