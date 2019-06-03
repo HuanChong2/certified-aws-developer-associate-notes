@@ -23,7 +23,7 @@
     - [Elastic Beanstalk](atws-deep-dive/elastic-beanstalk.md)
     - [CICD: Continuous Integration and Deployment](atws-deep-dive/cicd.md)
         - [CodeCommit](atws-deep-dive/codecommit.md)
-        - CodePipeline
+        - [CodePipeline](atws-deep-dive/codepipeline.md)
         - CodeBuild
         - CodeDeploy
     - CloudFormation
