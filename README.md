@@ -25,7 +25,7 @@
         - [CodeCommit](atws-deep-dive/codecommit.md)
         - [CodePipeline](atws-deep-dive/codepipeline.md)
         - [CodeBuild](atws-deep-dive/codebuild.md)
-        - CodeDeploy
+        - [CodeDeploy](atws-deep-dive/codedeploy.md)
     - CloudFormation
     - CloudWatch
     - SQS
