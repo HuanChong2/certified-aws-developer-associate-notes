@@ -24,7 +24,7 @@
     - [CICD: Continuous Integration and Deployment](atws-deep-dive/cicd.md)
         - [CodeCommit](atws-deep-dive/codecommit.md)
         - [CodePipeline](atws-deep-dive/codepipeline.md)
-        - CodeBuild
+        - [CodeBuild](atws-deep-dive/codebuild.md)
         - CodeDeploy
     - CloudFormation
     - CloudWatch
