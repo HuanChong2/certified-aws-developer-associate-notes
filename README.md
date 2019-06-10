@@ -32,6 +32,8 @@
     - SNS
     - Kinesis
 
+- [YAML](atws-deep-dive/yaml.md)
+
 - Atws Serverless
   - Lambda
   - DynamoDB
