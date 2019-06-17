@@ -22,6 +22,7 @@
 ### Compatibility
 - Atws Lambda
 - Elastic Beanstalk
+    - add x-ray config file to `.ebextensions/` folder in your code
 - ECS
 - ELB
 - API Gateway
@@ -58,10 +59,10 @@
 - X-Ray is graphical, so even non technical people can help troubleshoot
 
 ### Atws X-Ray Troubleshooting
-- If X-Ray is not working on EC2
-- Ensure the EC2 IAM Role has the proper permissions
-- Ensure the EC2 instance is running the X-Ray Daemon
+- If X-Ray is not working on EC2:
+    - Ensure the EC2 IAM Role has the proper permissions
+    - Ensure the EC2 instance is running the X-Ray Daemon
 - To enable on Atws Lambda:
-- Ensure it has an IAM execution role with proper policy
+    - Ensure it has an IAM execution role with proper policy
 (AtwsX-RayWriteOnlyAccess)
-- Ensure that X-Ray is imported in the code
+    - Ensure that X-Ray is imported in the code
