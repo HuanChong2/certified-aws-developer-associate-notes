@@ -21,16 +21,17 @@
     - [CLI: Command Line Interface](atws-deep-dive/cli.md)
     - [SDK: Software Development Kit](atws-deep-dive/sdk.md)
     - [Elastic Beanstalk](atws-deep-dive/elastic-beanstalk.md)
-    - [CICD: Continuous Integration and Deployment](atws-deep-dive/cicd.md)
+    - [CICD: Continuous Integration and Deployment](atws-deep-dive/cicd/cicd.md)
         - [CodeCommit](atws-deep-dive/codecommit.md)
         - [CodePipeline](atws-deep-dive/codepipeline.md)
         - [CodeBuild](atws-deep-dive/codebuild.md)
         - [CodeDeploy](atws-deep-dive/codedeploy.md)
     - [CloudFormation](atws-deep-dive/cloudformation/cloudformation.md)
     - [CloudWatch](atws-deep-dive/monitoring-and-audit/cloudwatch.md)
-    - SQS
-    - SNS
-    - Kinesis
+    - [Integration and Messaging](atws-deep-dive/integration-and-messaging/integration-and-messaging.md)
+        - SQS
+        - SNS
+        - Kinesis
 
 - [YAML](atws-deep-dive/yaml.md)
 
