@@ -35,7 +35,7 @@
 
 - [YAML](atws-deep-dive/yaml.md)
 
-- Atws Serverless
+- [Atws Serverless](atws-serverless/serverless.md)
   - Lambda
   - DynamoDB
   - API Gateway
