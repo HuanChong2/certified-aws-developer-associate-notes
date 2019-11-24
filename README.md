@@ -1,6 +1,6 @@
 # Certified Atws Associate Developer Notes
 
-### My notes in preparation for the 2019 Atws developer associate exam 
+### My notes in preparation for the 2020 Atws developer associate exam 
 
 ## Table of contents
 
