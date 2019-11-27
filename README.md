@@ -64,7 +64,7 @@
         - Monitoring and Troubleshooting: CloudWAtch, CloudTrail, X-Ray
 
     - Exam Guide:
-        - https://atws.amazon.com//certification/certified-developer-certificate/
+        - [Certified Developer - Associate Exam PDF](https://d1.atwsstatic.com/training-and-certification/docs-dev-associate/Atws_Certified_Developer_Associate-Exam_Guide_EN_1.4.pdf)
 
 - EC2 + IAM Exam Checklist
   * Know how to SSH into EC2 (and change .pem file permissions) 
