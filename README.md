@@ -5,37 +5,37 @@
 ## Table of contents
 
 - Atws Fundamentals
-    - [IAM: Identity Access & Management](atws-fundamentals/iam.md)
-    - [EC2: Virtual Machines](atws-fundamentals/ec2.md)
-    - [Security Groups](atws-fundamentals/security-groups.md)
-    - [ELB: Elastic Load Balancers](atws-fundamentals/elb.md)
-    - [ASG: Auto Scaling Group](atws-fundamentals/asg.md)
-    - [EBS Volumes](atws-fundamentals/ebs.md)
-    - [RDS: Relational Database Service](atws-fundamentals/rds.md)
-    - [Route 53](atws-fundamentals/route53.md)
-    - [ElastiCache](atws-fundamentals/elasticache.md)
-    - [VPC: Virtual Private Cloud](atws-fundamentals/vpc.md)
-    - [S3 Buckets](atws-fundamentals/s3.md)
+    - [IAM: Identity Access & Management](1-atws-fundamentals/iam.md)
+    - [EC2: Virtual Machines](1-atws-fundamentals/ec2.md)
+    - [Security Groups](1-atws-fundamentals/security-groups.md)
+    - [ELB: Elastic Load Balancers](1-atws-fundamentals/elb.md)
+    - [ASG: Auto Scaling Group](1-atws-fundamentals/asg.md)
+    - [EBS Volumes](1-atws-fundamentals/ebs.md)
+    - [RDS: Relational Database Service](1-atws-fundamentals/rds.md)
+    - [Route 53](1-atws-fundamentals/route53.md)
+    - [ElastiCache](1-atws-fundamentals/elasticache.md)
+    - [VPC: Virtual Private Cloud](1-atws-fundamentals/vpc.md)
+    - [S3 Buckets](1-atws-fundamentals/s3.md)
 
 - Atws Deep Dive
-    - [CLI: Command Line Interface](atws-deep-dive/cli.md)
-    - [SDK: Software Development Kit](atws-deep-dive/sdk.md)
-    - [Elastic Beanstalk](atws-deep-dive/elastic-beanstalk.md)
-    - [CICD: Continuous Integration and Deployment](atws-deep-dive/cicd/cicd.md)
-        - [CodeCommit](atws-deep-dive/cicd/codecommit.md)
-        - [CodePipeline](atws-deep-dive/cicd/codepipeline.md)
-        - [CodeBuild](atws-deep-dive/cicd/codebuild.md)
-        - [CodeDeploy](atws-deep-dive/cicd/codedeploy.md)
-    - [CloudFormation](atws-deep-dive/cloudformation/cloudformation.md)
-    - [CloudWatch](atws-deep-dive/monitoring-and-audit/cloudwatch.md)
-    - [Integration and Messaging](atws-deep-dive/integration-and-messaging/integration-and-messaging.md)
+    - [CLI: Command Line Interface](2-atws-deep-dive/cli.md)
+    - [SDK: Software Development Kit](2-atws-deep-dive/sdk.md)
+    - [Elastic Beanstalk](2-atws-deep-dive/elastic-beanstalk.md)
+    - [CICD: Continuous Integration and Deployment](2-atws-deep-dive/cicd/cicd.md)
+        - [CodeCommit](2-atws-deep-dive/cicd/codecommit.md)
+        - [CodePipeline](2-atws-deep-dive/cicd/codepipeline.md)
+        - [CodeBuild](2-atws-deep-dive/cicd/codebuild.md)
+        - [CodeDeploy](2-atws-deep-dive/cicd/codedeploy.md)
+    - [CloudFormation](2-atws-deep-dive/cloudformation/cloudformation.md)
+    - [CloudWatch](2-atws-deep-dive/monitoring-and-audit/cloudwatch.md)
+    - [Integration and Messaging](2-atws-deep-dive/integration-and-messaging/integration-and-messaging.md)
         - SQS
         - SNS
         - Kinesis
 
-- [YAML](atws-deep-dive/yaml.md)
+- [YAML](2-atws-deep-dive/yaml.md)
 
-- [Atws Serverless](atws-serverless/serverless.md)
+- [Atws Serverless](3-atws-serverless/serverless.md)
   - Lambda
   - DynamoDB
   - API Gateway
