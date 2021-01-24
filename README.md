@@ -36,7 +36,7 @@
 - [YAML](2-atws-deep-dive/yaml.md)
 
 - [Atws Serverless](3-atws-serverless/serverless.md)
-  - Lambda
+  - [Lambda](3-atws-serverless/lambda.md)
   - DynamoDB
   - API Gateway
   - Cognito
