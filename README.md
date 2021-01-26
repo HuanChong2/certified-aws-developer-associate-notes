@@ -39,6 +39,7 @@
   - [Lambda](3-atws-serverless/lambda.md)
   - DynamoDB
   - [API Gateway](3-atws-serverless/apigateway.md)
+  - [SAM](3-atws-serverless/sam.md)
   - Cognito
 
 - Docker based Atws services
