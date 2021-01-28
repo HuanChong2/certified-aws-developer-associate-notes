@@ -41,7 +41,7 @@
   - [API Gateway](3-atws-serverless/apigateway.md)
   - [SAM](3-atws-serverless/sam.md)
   - [Cognito](3-atws-serverless/cognito.md)
-  - Step Functions
+  - [Step Functions](3-atws-serverless/stepfunctions.md)
 
 - Docker based Atws services
   - ECS: Elastic Container Service
