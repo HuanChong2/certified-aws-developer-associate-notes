@@ -37,10 +37,11 @@
 
 - [Atws Serverless](3-atws-serverless/serverless.md)
   - [Lambda](3-atws-serverless/lambda.md)
-  - DynamoDB
+  - [DynamoDB](3-atws-serverless/dynamodb.md)
   - [API Gateway](3-atws-serverless/apigateway.md)
   - [SAM](3-atws-serverless/sam.md)
   - [Cognito](3-atws-serverless/cognito.md)
+  - Step Functions
 
 - Docker based Atws services
   - ECS: Elastic Container Service
