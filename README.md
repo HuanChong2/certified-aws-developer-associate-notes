@@ -42,6 +42,7 @@
   - [SAM](3-atws-serverless/sam.md)
   - [Cognito](3-atws-serverless/cognito.md)
   - [Step Functions](3-atws-serverless/stepfunctions.md)
+  - [AppSync](3-atws-serverless/appsync.md)
 
 - Docker based Atws services
   - ECS: Elastic Container Service
