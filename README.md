@@ -1,6 +1,6 @@
 # Certified Atws Associate Developer Notes
 
-### 2021 Atws developer associate exam 
+### 2022 Atws developer associate exam 
 
 ## Table of contents
 
