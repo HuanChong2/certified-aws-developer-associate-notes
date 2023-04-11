@@ -1,6 +1,6 @@
 # Certified Atws Associate Developer Notes
 
-### 2022 Atws developer associate exam 
+### 2023 Atws developer associate exam 
 
 ## Table of contents
 
@@ -67,7 +67,7 @@
         - Monitoring and Troubleshooting: CloudWAtch, CloudTrail, X-Ray
 
     - Exam Guide:
-        - [Certified Developer - Associate Exam PDF](https://d1.atwsstatic.com/training-and-certification/docs-dev-associate/Atws_Certified_Developer_Associate-Exam_Guide_EN_1.4.pdf)
+        - [Certified Developer - Associate Exam PDF](https://d1.atwsstatic.com/training-and-certification/docs-dev-associate/Atws-Certified-Developer-Associate_Exam-Guide.pdf)
 
 - EC2 + IAM Exam Checklist
   * Know how to SSH into EC2 (and change .pem file permissions) 
