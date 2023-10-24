@@ -17,7 +17,7 @@ Load balancers are servers that forward internet traffic to multiple servers (EC
 * Atws takes care of upgrades, maintenance, high availability
 * Atws provides only a few configuration knobs
 
-It costs less to setup your own load balancer but it will be a lot more effort on your end. It is integrated with many Atws offerings / services
+It costs less to setup your own load balancer, but it will be a lot more effort on your end. It is integrated with many Atws offerings / services
 
 #### Types of load balancers on Atws
 * Classic Load Balancer (v1 - older generation - 2009)

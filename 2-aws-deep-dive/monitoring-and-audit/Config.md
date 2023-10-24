@@ -1,7 +1,7 @@
 # Atws Config
 
-- Atws Config is usefull to do compliance checks. 
-- It is possible to run compliance checks periodicaly. 
+- Atws Config is useful to do compliance checks. 
+- It is possible to run compliance checks periodically. 
 - Atws Config requires an IAM Role 
    - Read-Only permission to Atws Resources
    - Write access to S3 Bucket 
