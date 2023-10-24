@@ -2,7 +2,7 @@
 
 - Provides governance, compliance and audit for your Atws Account
 - CloudTrail is enabled by default!
-- Get an history of events / API calls made within your Atws Account by:
+- Get a history of events / API calls made within your Atws Account by:
     - Console
     - SDK
     - CLI
