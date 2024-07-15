@@ -1,6 +1,6 @@
 # Certified Atws Associate Developer Notes
 
-### 2023 Atws developer associate exam 
+### 2024 Atws developer associate exam 
 
 ## Table of contents
 
@@ -50,6 +50,8 @@
   - Fargate
 
 - [Exam Preparation](#exam-preparation)
+  - [Exam Practice Questions Part 1](<4-exam-questions/Atws Certified Developer - Associate DVA-C02 ExamTopics1.pdf>) (Note: The highest community voting result is the correct answer for each question)
+  - [Exam Practice Questions Part 2](<4-exam-questions/Atws Certified Developer - Associate DVA-C02 ExamTopics2.pdf>)
 
 
 ## Exam Preparation
